@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<title>Buglintch Studios</title>
+	<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+	<header class="header">
+		<div class="container">
+		<div class="btn-menu">
+			<label for="btn-menu">☰</label>
+		</div>
+			<div class="logo">
+				<h1>Buglintch Studios</h1>
+			</div>
+			<nav class="menu">
+				<a href="../menu-lateral-master/index.html">Inicio</a>
+				<a href="../menu-lateral-master/Juegos.html">Juegos</a>
+				<a href="#">Videos</a>
+				<a href="#">Contacto</a>
+			</nav>
+		</div>
+	</header>
+<!--nueva menu -->
+<center>
+
+<div class="margen"></div>
+<div class="menu-nuevo1">
+	<h2></h2>
+</div>
+
+<div class="game1">
+
+	<div class="img1">
+		<h1>Que es Buglintch Studios</h1>
+		<p>Buglintch Studios es una studio de videojuegos indie creados solamente por una persona y son totalmente
+			gratis, solo si quieres apoyar al studio de juegos puedes donar dandole a boton de donaciones
+		es solamente si te gustaria apoyarnos gracias y disfruta de todo	</p>
+	</div>
+	<div class="video1">
+<video controls width="500px">
+	<source src="../menu-lateral-master/portada 2.mp4" type="video/mp4">
+	tu navegador no es compatible con videos HTML5
+</video>
+</div>
+</div>
+
+<!--
+<div class="game2">
+	<div class="img3"><img src="" alt="" width="50px"></div>
+<div class="text1">
+	<p>Juegos y otras cosas mas de la pagina</p>
+</div>
+</div>
+-->
+
+</center>
+<!--fin de menu-->
+
+<!--	--------------->
+<input type="checkbox" id="btn-menu">
+<div class="container-menu">
+	<div class="cont-menu">
+		<nav>
+			<a href="#">Pixel Art</a>
+			<a href="#">Modelos 3D</a>
+			<a href="..//menu-lateral-master/Juegos.html">Juegos</a>
+			<a href="#">Donaciones</a>
+			<a href="#">Facebook</a>
+			<a href="#">Youtube</a>
+			<a href="#">Instagram</a>
+		</nav>
+		<label for="btn-menu">✖️</label>
+	</div>
+</div>
+</body>
+</html>
